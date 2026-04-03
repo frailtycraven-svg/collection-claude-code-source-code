@@ -1,28 +1,5 @@
 
 # A collection of the newest Claude Code open source
-
-> Source archive of Claude Code and a clean-room Python rewrite research repository
-
-## 🔥🔥🔥 News (Pacific Time)
-- 7:40 AM · Apr 02, 2026: [Nano Claude Code v2.0: A Minimal Python Reimplementation (~3400 Lines), support open and closed source models, skill and memory](https://github.com/SafeRL-Lab/nano-claude-code)
-- 8:36 AM · Apr 01, 2026: [Nano Claude Code v1.0: A Minimal Python Reimplementation (~1300 Lines)](https://github.com/SafeRL-Lab/nano-claude-code)
-- 0:20 AM · Apr 01, 2026: [Analysis of Claude Code source code (Video: In Chinese)](https://www.youtube.com/watch?v=xsg6_Gvr2J0&t=10s)
-- 19:45 PM · Mar 31, 2026: [Claude Code Research Report (In Chinese)](https://github.com/chauncygu/collection-claude-code-source-code/blob/main/docs/claude-code-deep-dive-xelatex.pdf)
-- 17:13 PM · Mar 31, 2026: [Architecture Analysis of Claude Code (In Chinese)](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ==&mid=2247502519&idx=1&sn=1072dd7a822a78709bc7cc3bf0e1dcc2&chksm=e8de6705e2bacc854211663aa02903738560f9e858eb6ce72b94c32fdbf67917badfab2d6536&mpshare=1&scene=1&srcid=0401KpkqfaXFBReRof6AwJ74&sharer_shareinfo=30fa54f1602d1d8bb1a65e7008074e08&sharer_shareinfo_first=30fa54f1602d1d8bb1a65e7008074e08#rd)
- - 16:43 PM · Mar 31, 2026: [An Overview of Claude Code Features (In Chinese)](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666572944&idx=1&sn=c54e34711e67a2e961acb341f51d2190&chksm=81ca164af949bdfe90a616c8ef8d7e729116a4a12a480cd9d012f42f5b8d7ecd6d05e284db09&mpshare=1&scene=1&srcid=04017JkKs9qrCh4AHcfZq7qL&sharer_shareinfo=95eb268167dd1b3d98271b8b26e7553e&sharer_shareinfo_first=95eb268167dd1b3d98271b8b26e7553e#rd)
-- 15:00 PM · Mar 31, 2026: [Hacker News Community Discussion about Claude Code Leak](https://news.ycombinator.com/item?id=47586778)
-- 11:48 AM · Mar 31, 2026: [How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code](https://x.com/troyhua/status/2039052328070734102)
-- 9:50 AM · Mar 31, 2026: [Claude code memory analysis](https://x.com/henryl_ai/status/2039022608310808965)
-- 9:48 AM · Mar 31, 2026: [Claude Code's source code appears to have leaked: here's what we know](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know)
-- 9:04 AM · Mar 31, 2026: [Deconstructing the Claude Code Architecture (In Chinese)](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ==&mid=2453898430&idx=1&sn=1c4051fb17a15b17e449b7eb85d3e1c5&chksm=897cc501d472cdd6916679a0766ab146b5347bc78e48171d9da97de282a05c10eea8d22c3605&mpshare=1&scene=1&srcid=0401oXuLa2VmhvrcRZk7VHfH&sharer_shareinfo=e7ff02258e887208db510104bc343079&sharer_shareinfo_first=6c39c564855be1e2372289b5c09b6247#rd)
-- 7:07 AM · Mar 31, 2026: [A Walkthrough of Claude Code's Source Code (In Chinese)](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655937729&idx=1&sn=0afb97062ef5f229910e3e54dd36abb6&chksm=bc66bca5b0f4171b56075506f208efea18381031c5ffa33070701ee1200bef7e411ea10188e9&mpshare=1&scene=1&srcid=0331PBEUSD8CVryQYEluyZbc&sharer_shareinfo=c5a329d2cc3ec432238f5fc1d9d70723&sharer_shareinfo_first=c5a329d2cc3ec432238f5fc1d9d70723#rd)
-- 5:41 AM · Mar 31, 2026: [Why Claude Code Outperforms Other Tools: An Analysis](https://x.com/YukerX/status/2038959908968919297)
-- 5:03 AM · Mar 31, 2026: [Anthropic's AI Coding Tool Leaks Its Own Source Code](https://www.ndtv.com/science/anthropics-ai-coding-tool-leaks-its-own-source-code-for-the-second-time-in-a-year-11291517)
-- 3:28 AM · Mar 31, 2026: [Claude Code Source Code Unveiled: Prompts, Self-Healing Mechanisms, and Multi-Agent Architecture (In Chinese)](https://mp.weixin.qq.com/s?__biz=MzI3ODY3ODg2Nw==&mid=2247484425&idx=1&sn=f77d3b97e88cb8019f014ca2eb95db65&chksm=ea98ee5bb2249e1c637520cf02b525b98b434671f2cc23ec554e5faa868e890deeead939c578&mpshare=1&scene=1&srcid=0401kVgDQ41tx7AECPzvch3W&sharer_shareinfo=5d97c04d957d52383c9b59245e421c5a&sharer_shareinfo_first=5d97c04d957d52383c9b59245e421c5a#rd)
-- 3:02 AM · Mar 31, 2026: [Community Reaction to the Claude Code Source Exposure](https://x.com/hank_aibtc/status/2038919948370616330)
-- 2:57 AM · Mar 31, 2026: [The code behind Claude Code](https://x.com/mal_shaik/status/2038918662489510273)
-- 1:23 AM · Mar 31, 2026: [A Viral Post on the Claude Code Source Leak](https://x.com/Fried_rice/status/2038894956459290963?s=20)
-
 ---
 
 ## Content
