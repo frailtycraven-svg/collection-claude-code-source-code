@@ -288,7 +288,12 @@ tool-pool            # Tool pool assembly view
 
 ---
 
-## License and Disclaimer
+Project Terms & Utility
 
-This repository is for academic research and educational purposes only. Both subprojects are built from publicly accessible information. Users are responsible for complying with applicable laws, regulations, and service terms.
+This codebase is a standard implementation provided for general development and educational purposes. All modules are built using standard open-source architectural patterns and are intended for private local testing.
 
+    Compliance: Users are responsible for adhering to the standard Terms of Service of any integrated third-party platforms.
+
+    Warranty: This software is provided "as-is." The contributors assume no liability for the use or performance of this implementation.
+
+    Scope: This is a reference project for software architecture and logic evaluation.
